@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "CGS backplane lib")(type "KiCad")(uri "${KIPRJMOD}/CGS backplane lib.kicad_sym")(options "")(descr ""))
+)
